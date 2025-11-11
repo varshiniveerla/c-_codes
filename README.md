@@ -1,2 +1,2 @@
-# c-_codes
+# c++codes
 basic mini projects 
